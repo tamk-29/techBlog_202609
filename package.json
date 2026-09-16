@@ -1,0 +1,26 @@
+{
+  "name": "techblog_202609",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preview": "zenn preview",
+    "new:article": "zenn new:article"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamk-29/techBlog_202609.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tamk-29/techBlog_202609/issues"
+  },
+  "homepage": "https://github.com/tamk-29/techBlog_202609#readme",
+  "dependencies": {
+    "zenn-cli": "^0.5.4"
+  }
+}

@@ -7,12 +7,6 @@ published: false
 publication_name: "hacobell_dev"
 ---
 
-<!--
-  レビュー承認までは published: false のままにしてください。
-  公開は「平日 月〜水の 9:00〜10:00」推奨。公開予約する場合は下記を追加します。
-  published_at: "2026-09-28 09:00"
--->
-
 ## はじめに
 
 はじめまして！ハコベル27卒内定者の玉木です。
